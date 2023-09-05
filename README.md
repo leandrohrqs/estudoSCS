@@ -36,13 +36,13 @@
 
 - **Linux é menos vulnerável a vírus** devido a separação de privilégios entre processos e respeitadas as recomendações padrão de política de segurança e uso de contas privilegiadas (como a de root), programas como vírus tornam-se inúteis pois tem a sua ação limitada pelas restrições de acesso do sistema de arquivos e execução.
 
-## Kernel
+### Kernel
 
 - Kernel é o núcleo do [Sistema Operacional](https://www.buscape.com.br/notebook/conteudo/o-que-e-sistema-operacional).
 
 - Ele representa a camada mais baixa de interface com o hardware, sendo responsável por gerenciar os recursos do sistema computacional como um todo.
 
-## Acessando um servidor Linux
+### Acessando um servidor Linux
 
 - É possível acessar de maneira prática de duas formas:
     - Utilizando o Prompt do Windows
@@ -68,8 +68,45 @@
     
     **Lembrando: Por questões de segurança não irá aparecer a os caracteres da senha no terminal**
 
-## Aula 04 - Conversão Binário -> Decimal
+## Aula 04 - Conversão de Binários
 
 - Como converter o binário para decimal:
+<img src="img/coversaobin-dec.jpg" width="80%">
 
-<img src="img/coversaobin-dec.jpg" max-width="75%">
+- Jogo para treinar binário: [Binary Game](https://learningcontent.cisco.com/games/binary/index.html)
+
+### Conversão de decimal para binário
+
+- Método divisão e resto:
+<img src="img/decimal-binario.jpg" width="80%">
+
+- Deve sempre ser divido pela base, por exemplo, se for decimal para octal a base deve mudar para 8.
+<img src="img/decimal-em-octal.png" width="80%">
+
+### Hexadecimal
+
+- Tabela de hexadecimal:
+<img src="img/tabela-hexa-bin.png" width="80%">
+
+- Meio byte se chama nibble
+<img src="img/byte-nibble.PNG" width="80%">
+
+- ED^16 = 0xED, isso significa que o número após o "x" está em hexadecimal.
+
+### Adição de binários
+
+-   1 + 1 = 0 e vai 1
+
+    0 + 0 = 0
+
+    1 + 0 = 1
+    
+    <img src="img/adicao-bin-ex.jpg" width="80%">
+
+### Overflow
+
+É quando um byte estoura, exemplo, um byte pode chegar no máximo á 255 e acontece um "overflow" quando ultrapassa este valor
+
+- Exemplo:
+    
+    <img src="img/overflow-ex.jpg" width="80%">
