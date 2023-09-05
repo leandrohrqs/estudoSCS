@@ -72,4 +72,4 @@
 
 - Como converter o binário para decimal:
 
-<img src="img/coversaobin-dec.jpg">
+<img src="img/coversaobin-dec.jpg" max-width="75%">
