@@ -110,3 +110,30 @@
 - Exemplo:
     
     <img src="img/overflow-ex.jpg" width="80%">
+S/M
+### Sinal Magnitude
+
+- Formas de armazenamento de internos
+    1. Sinal / Magnitude
+    2. Completo de 1
+    3. Completo de 2
+
+- Representações em Sinal e Magnitude - S/M
+
+- A palavra "magnitude" nesse contexto, significa o valor absoluto de um número. Em outras palavras, refere-se ao módulo de um número.
+
+- Basta inverter os valores e começar com 1 no byte para ele ficar negativo em **C1**
+
+    - 0 = positivo
+    
+    - 1 = negativo
+    
+    <img src="img/sm-neg-pos.jpg" width="80%">
+
+- Em **SM** o oitavo bit significa o sinal
+
+
+- Em **C2** é necessário achar o **C1** e somar +1.
+<img src="img/como-achar-c2.jpg" width="80%">
+
+- Para transformar o **C2** em binário real basta inverter e adicionar 1.
