@@ -137,3 +137,17 @@ S/M
 <img src="img/como-achar-c2.jpg" width="80%">
 
 - Para transformar o **C2** em binário real basta inverter e adicionar 1.
+
+## Aula 05 - Atividade em sala: Forms
+  // Sem anotações
+
+## Aula 06 - Aritmética usando C2
+
+<img src="img/aula-05-comeco.jpg" height="80%">
+
+<img src="img/diagr-bloc-hard.png" height="80%">
+
+<img src="img/aula-05-george-boole.jpg" height="80%">
+
+<img src="img/aula-05-if-or-not-and.jpg" height="80%">
+
