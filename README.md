@@ -151,3 +151,5 @@ S/M
 
 <img src="img/aula-05-if-or-not-and.jpg" height="80%">
 
+## Aula 07 - Reinaldo, 18/09/2023
+
