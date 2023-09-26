@@ -153,3 +153,12 @@ S/M
 
 ## Aula 07 - Reinaldo, 18/09/2023
 
+// Sem anotações
+
+## Aula 08 - Rogério, 19/09/2023
+
+// Sem anotações
+
+## Aula 09 - Reinaldo, 25/09/2023
+
+// Sem anotações
