@@ -162,3 +162,7 @@ S/M
 ## Aula 09 - Reinaldo, 25/09/2023
 
 // Sem anotações
+
+## Aula 10 - Reinaldo, 02/10/2023
+
+- Bios: Ajuda o S.O. a inicializar, controla as configurações do computador
